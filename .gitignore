@@ -22,7 +22,7 @@ public/assets/jquery
 public/assets/jquery-ui
 
 # Test Build
-public/build
+build
 
 # Netbeans Project
 nbproject/
