@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CodingMatters/Kernel.git",
-                "reference": "8b38d660249b7314cb5aeff0c1808fffe3fe0f3d"
+                "reference": "5bafcaa7a3113de0d9f0a833448fd64e93de5d08"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CodingMatters/Kernel/zipball/8b38d660249b7314cb5aeff0c1808fffe3fe0f3d",
-                "reference": "8b38d660249b7314cb5aeff0c1808fffe3fe0f3d",
+                "url": "https://api.github.com/repos/CodingMatters/Kernel/zipball/5bafcaa7a3113de0d9f0a833448fd64e93de5d08",
+                "reference": "5bafcaa7a3113de0d9f0a833448fd64e93de5d08",
                 "shasum": ""
             },
             "require": {
@@ -69,7 +69,7 @@
             "keywords": [
                 "core"
             ],
-            "time": "2016-05-18 23:54:37"
+            "time": "2016-05-19 00:39:16"
         },
         {
             "name": "container-interop/container-interop",
