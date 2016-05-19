@@ -17,7 +17,7 @@
         "zendframework/zend-expressive-zendviewrenderer": "^1.1",
         "zendframework/zend-i18n-resources": "^2.5",
         "zendframework/zend-navigation": "^2.7",
-        "codingmatters/kernel": "1.0.x-dev"
+        "codingmatters/kernel": "^0.1 || ^1.0"
     },
     "require-dev": {        
         "phpunit/phpunit": "^5.3",
