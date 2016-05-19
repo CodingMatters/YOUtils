@@ -7,7 +7,7 @@ $configFiles = [
     require __DIR__ . '/autoload/dependencies.config.php',
     require __DIR__ . '/autoload/navigator.config.php',
     require __DIR__ . '/autoload/templates.config.php',
-    require __DIR__ . '/autoload/translator.config.php', // optional    
+    require __DIR__ . '/autoload/translator.config.php', // optional
 ];
 
 foreach ($configFiles as $configFile) {

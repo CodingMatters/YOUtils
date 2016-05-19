@@ -2,7 +2,7 @@
 
 return [
     "dependencies" =>  [
-        'aliases'       => [],        
+        'aliases'       => [],
         'invokables'    => [],
         'factories'     => [],
     ]
