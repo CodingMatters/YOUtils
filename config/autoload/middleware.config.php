@@ -1,7 +1,7 @@
 <?php
 
 return [
-        'middleware_pipeline' => [
+    'middleware_pipeline' => [
         'always' => [
             'middleware' => [
                 // Add more middleware here that you want to execute on
