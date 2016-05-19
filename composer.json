@@ -16,7 +16,8 @@
         "roave/security-advisories": "dev-master",
         "zendframework/zend-expressive-zendviewrenderer": "^1.1",
         "zendframework/zend-i18n-resources": "^2.5",
-        "zendframework/zend-navigation": "^2.7"
+        "zendframework/zend-navigation": "^2.7",
+        "codingmatters/kernel": "1.0.x-dev"
     },
     "require-dev": {        
         "phpunit/phpunit": "^5.3",
@@ -43,7 +44,6 @@
             "config-provider": "CodingMatters\\YOUtils\\Module"
         },
         "branch-alias": {
-            "dev-master": "1.0-alpha",
             "dev-develop": "1.0-dev"
         }
     },
