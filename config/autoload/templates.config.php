@@ -2,6 +2,7 @@
 
 $adminlte   = __DIR__ . "/../../templates/adminlte";
 $error      = __DIR__ . "/../../templates/error";
+$laracast   = __DIR__ . '/../../templates/laracast';
 
 return [
     'dependencies' => [
@@ -29,6 +30,12 @@ return [
             'partial/navigation/header'         => $adminlte . '/layout/partial/navigation/header.phtml',
             'partial/navigation/sidebar'        => $adminlte . '/layout/partial/navigation/sidebar.phtml',
             'partial/navigation/breadcrumbs'    => $adminlte . '/layout/partial/navigation/breadcrumbs.phtml',
+            
+            // Laracast
+            'site-like/laracast'                => $laracast . '/layout/site.phtml',
+            'site/footer'                       => $laracast . '/layout/partial/footer.phtml',
+            'site/header'                       => $laracast . '/layout/partial/header.phtml'
+            
         ],
         'paths'      => [
             'error'     => [__DIR__ . '/../../templates/error'],
